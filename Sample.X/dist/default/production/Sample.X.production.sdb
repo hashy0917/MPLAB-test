@@ -1,0 +1,28 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 12F683 ]
+[d frameptr 6 ]
+"10 D:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 D:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 D:\Program Files (x86)\Microchip\xc8\v2.05\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"36 C:\Users\oohasi\MPLABXProjects\MPLAB-test\Sample.X\sample-main.c
+[v _main main `(i  1 e 2 0 ]
+"166 D:\Program Files (x86)\Microchip\xc8\v2.05\pic\include\pic12f683.h
+[v _GPIO GPIO `VEuc  1 e 1 @5 ]
+"951
+[v _TRISIO TRISIO `VEuc  1 e 1 @133 ]
+"1111
+[v _OSCCON OSCCON `VEuc  1 e 1 @143 ]
+"1720
+[v _ANSEL ANSEL `VEuc  1 e 1 @159 ]
+"36 C:\Users\oohasi\MPLABXProjects\MPLAB-test\Sample.X\sample-main.c
+[v _main main `(i  1 e 2 0 ]
+{
+"52
+} 0
